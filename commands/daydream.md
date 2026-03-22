@@ -1,6 +1,6 @@
 ---
 description: Trigger a daydream session. Optionally specify type (full/idea) and number of cycles.
-argument-hint: [full|idea] [cycles]
+argument-hint: "[full|idea] [cycles]"
 allowed-tools: [Read, Write, Edit, Bash, WebSearch]
 ---
 
